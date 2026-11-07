@@ -82,7 +82,7 @@ Varun S_C# Assignment.exe
 |------|--------------|
 | **EmployeeReport.html** | Table showing total hours worked by each employee |
 | **EmployeePieChart.png** | Pie chart showing percentage of total time worked |
-| **ManasNath_C# Assignment.exe** | Executable file for submission |
+| **Varun S_C# Assignment.exe** | Executable file for submission |
 
 ---
 
