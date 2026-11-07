@@ -1,5 +1,6 @@
 # RAPIDD Technologies – C# Assignment  
 **Candidate:** Varun S
+
 **Date:** October 2026 
 
 ---
@@ -86,7 +87,7 @@ Varun S_C# Assignment.exe
 ---
 
 ## 📤 Submission Information  
-- GitHub Repository: https://github.com/varun782/RAPIDD_Assignment 
+- GitHub Repository: https://github.com/varun782/Rappido.git
 - Executable File: Uploaded to RAPIDD hiring portal  
 - Confirmation Email: Sent to HR  
 
