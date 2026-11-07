@@ -1,6 +1,6 @@
 # RAPIDD Technologies – C# Assignment  
-**Candidate:** Manas Nath  
-**Date:** October 2025  
+**Candidate:** Varun S
+**Date:** October 2026 
 
 ---
 
@@ -47,7 +47,7 @@ RAPIDD_Assignment/
 ├── Program.cs # Main C# code
 ├── EmployeeReport.html # Generated HTML table
 ├── EmployeePieChart.png # Generated pie chart
-├── ManasNath_C# Assignment.exe # Final executable file
+├── Varun s_C# Assignment.exe # Final executable file
 └── README.md # Project documentation
 
 
@@ -72,7 +72,7 @@ RAPIDD_Assignment/
 
 The `.exe` will be created in:  
 
-ManasNath_C# Assignment.exe
+Varun S_C# Assignment.exe
 ---
 
 ## 📊 Output Files  
@@ -86,7 +86,7 @@ ManasNath_C# Assignment.exe
 ---
 
 ## 📤 Submission Information  
-- GitHub Repository: https://github.com/Manasnath/RAPIDD_Assignment 
+- GitHub Repository: https://github.com/varun782/RAPIDD_Assignment 
 - Executable File: Uploaded to RAPIDD hiring portal  
 - Confirmation Email: Sent to HR  
 
@@ -99,7 +99,7 @@ ManasNath_C# Assignment.exe
 
 ---
 
-© 2025 — **Manas Nath**
+© 2026 — **Varun S**
  
 
 
